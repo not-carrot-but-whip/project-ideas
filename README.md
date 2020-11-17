@@ -13,7 +13,6 @@
 
 &nbsp;
 
----
 
 > ## [JoYuKang](https://github.com/JoYuKang)
 #### 1. 프로젝트 / 아이디어 명 (작성예시)
@@ -25,7 +24,6 @@
 
 &nbsp;
 
----
 
 > ## [jamongK](https://github.com/jamongK)
 #### 1. 프로젝트 / 아이디어 명 (작성예시)
